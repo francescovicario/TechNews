@@ -4,7 +4,7 @@
 
 ![](src/img/tech-news-demo.gif)
 
-[DEMO](www.google.com)</div>
+[DEMO](https://francescovicario.github.io/TechNews/)</div>
 
 Ho svolto questo progetto per certificare le competenze che ho ottenuto studiando la superguida JavaScript Advanced di Start2Impact.
 
@@ -35,4 +35,4 @@ Il `button` ha un `addEventListener` che, ad ogni click, fa partire `newsRender`
 
 Nel caso ci fosse un errore, la funzione `errorHandler` viene attivata: viene aggiunta `hidden` a `button` (attraverso `classList.add`) e vengono inseriti nel div due paragrafi: il primo ha come testo l'errore occorso, il secondo invece contiene un messaggio che invita a ricaricare la pagina o a riprovare più tardi.
 
-Il sito è responsive, con un approccio mobile-first. Visto che le news sono in lingua inglese, ho preferito farlo completamente in questa lingua.
+Visto che le news sono in lingua inglese, ho preferito fare il sito completamente in questa lingua.
